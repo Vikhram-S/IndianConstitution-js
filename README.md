@@ -94,7 +94,7 @@ The Constitution data is meticulously compiled from publicly available, authorit
 
 - **Author**: Vikhram S  
 - **Email**: [vikhrams@saveetha.ac.in](mailto:vikhrams@saveetha.ac.in)  
-- **Python Companion**: [IndianConstitution](https://github.com/Vikhram-S/IndianConstitution-js) 
+- **Python Companion**: [IndianConstitution](https://github.com/Vikhram-S/IndianConstitution) 
 
 ## Copyright
 
