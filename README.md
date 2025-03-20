@@ -1,4 +1,4 @@
-# @vikhram-s/indianconstitution-js (v0.1.0)
+# @vikhram-s/indianconstitution-js
 
 A robust JavaScript library designed to provide seamless access to the Constitution of India. This module enables developers to retrieve articles, explore summaries, perform keyword searches, and more, leveraging a comprehensive dataset embedded within the `IndianConstitution` class.
 
