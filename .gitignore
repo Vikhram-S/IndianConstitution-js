@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# npm lock file (optional for libraries)
+package-lock.json
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build or temporary files
+dist/
+build/
+*.bak

@@ -1,0 +1,26 @@
+# Exclude node_modules and its contents
+node_modules/
+
+# Exclude log files
+*.log
+
+# Exclude Git-related files
+.git
+.gitignore
+
+# Exclude editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# Exclude package-lock (not needed in library packages)
+package-lock.json
+
+# Exclude test or development files (if added later)
+tests/
+*.test.js
+test.js
+
+# Exclude build artifacts (if you add a build step later)
+dist/
+build/
