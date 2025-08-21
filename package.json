@@ -1,0 +1,50 @@
+{
+    "name": "@vikhram-s/indianconstitution-js",
+    "version": "0.2.0",
+    "description": "A JavaScript module for accessing and managing Constitution data.",
+    "longDescription": "See README.md for detailed information.",
+    "author": "Vikhram S <vikhrams@saveetha.ac.in>",
+    "maintainer": "Vikhram S <vikhrams@saveetha.ac.in>",
+    "main": "src/index.js",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "repository": {
+        "url": "git+https://github.com/Vikhram-S/IndianConstitution-js.git"
+    },
+    "homepage": "https://github.com/Vikhram-S/IndianConstitution-js",
+    "bugs": {
+        "url": "https://github.com/Vikhram-S/IndianConstitution-js/issues"
+    },
+    "license": "Apache-2.0",
+    "keywords": [
+        "indian",
+        "constitution",
+        "law",
+        "education",
+        "legal"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "scripts": {},
+    "classifiers": [
+        "Development Status :: 4 - Beta",
+        "Intended Audience :: Developers",
+        "Intended Audience :: Education",
+        "Intended Audience :: Legal Industry",
+        "License :: OSI Approved :: Apache Software License",
+        "Natural Language :: English",
+        "Operating System :: OS Independent",
+        "Programming Language :: JavaScript",
+        "Topic :: Software Development :: Libraries",
+        "Topic :: Education",
+        "Topic :: Text Processing"
+    ],
+    "project_urls": {
+        "Documentation": "https://github.com/Vikhram-S/IndianConstitution-js",
+        "Source": "https://github.com/Vikhram-S/IndianConstitution-js",
+        "Issue Tracker": "https://github.com/Vikhram-S/IndianConstitution-js/issues"
+    }
+}
