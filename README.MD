@@ -2,7 +2,7 @@
 
 A robust JavaScript library designed to provide seamless access to the Constitution of India. This module enables developers to retrieve articles, explore summaries, perform keyword searches, and more, leveraging a comprehensive dataset embedded within the `IndianConstitution` class.
 
-[![npm version](https://img.shields.io/npm/v/@vikhram-s/indianconstitution-js?label=npm)](https://www.npmjs.com/package/@vikhram-s/indianconstitution-js) [![License](https://img.shields.io/npm/l/@vikhram-s/indianconstitution-js?label=License&color=red)](https://github.com/Vikhram-S/IndianConstitution-js/blob/main/LICENSE) [![Maintained](https://img.shields.io/maintenance/yes/2025?label=Maintained)](https://github.com/Vikhram-S/IndianConstitution-js) [![Node.js](https://img.shields.io/node/v/@vikhram-s/indianconstitution-js?label=Node.js)](https://nodejs.org/) [![Downloads](https://img.shields.io/npm/dt/@vikhram-s/indianconstitution-js?label=Downloads&style=plastic)](https://www.npmjs.com/package/@vikhram-s/indianconstitution-js) [![GitHub Issues](https://img.shields.io/github/issues/Vikhram-S/IndianConstitution-js?label=Issues)](https://github.com/Vikhram-S/IndianConstitution-js/issues)
+[![npm version](https://img.shields.io/npm/v/@vikhram-s/indianconstitution-js?label=npm)](https://www.npmjs.com/package/@vikhram-s/indianconstitution-js) [![License](https://img.shields.io/npm/l/@vikhram-s/indianconstitution-js?label=License&color=red)](https://github.com/Vikhram-S/IndianConstitution-js/blob/main/LICENSE) [![Maintained](https://img.shields.io/maintenance/yes/2026?label=Maintained)](https://github.com/Vikhram-S/IndianConstitution-js) [![Node.js](https://img.shields.io/node/v/@vikhram-s/indianconstitution-js?label=Node.js)](https://nodejs.org/) [![Downloads](https://img.shields.io/npm/dt/@vikhram-s/indianconstitution-js?label=Downloads&style=plastic)](https://www.npmjs.com/package/@vikhram-s/indianconstitution-js) [![GitHub Issues](https://img.shields.io/github/issues/Vikhram-S/IndianConstitution-js?label=Issues)](https://github.com/Vikhram-S/IndianConstitution-js/issues)
 
 ## Installation
 
@@ -98,5 +98,5 @@ The Constitution data is meticulously compiled from publicly available, authorit
 
 ## Copyright
 
-© 2025 Vikhram S. All rights reserved.
+© 2026 Vikhram S. All rights reserved.
 
